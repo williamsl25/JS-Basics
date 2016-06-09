@@ -39,9 +39,10 @@ if (correctGuess){
 
 }
 ```
-- object literals
+ object literals
 
-```{
+```
+{
   firstName: "Lindsay",
   lastName: "Williams"
 }
