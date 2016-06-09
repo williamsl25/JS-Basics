@@ -26,15 +26,16 @@ if(parseInt(guess) === randomNumber){
 } else if (){
 
 }
+```
 
-// write another if/else to print the message to the page if it is correct or not correct
-if (correctGuess){
+ write another if/else to print the message to the page if it is correct or not correct
+```if (correctGuess){
   document.write('<p>You guessed the number!</p>')
 } else {
   document.write('<p>Sorry, the correct number was ' + randomNumber + '.</p>');
 
 }
-
+```
 * object literals
 
 ```{
