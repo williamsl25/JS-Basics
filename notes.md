@@ -87,7 +87,7 @@ if (correctGuess){
 'xbc'
 * arr.join()
 'x,b,c'
-
+```
 #### Functions:
 a set of instructions that you want to run over and over and over again.
 
