@@ -39,7 +39,7 @@ if (correctGuess){
 
 }
 ```
-* object literals
+- object literals
 
 ```{
   firstName: "Lindsay",
@@ -92,10 +92,11 @@ if (correctGuess){
 * arr.join()
 'x,b,c'
 ```
+
 #### Functions:
 a set of instructions that you want to run over and over and over again.
 
-1) basic structure of a function
+- 1) basic structure of a function
 
 ```
 function myFunction() {
