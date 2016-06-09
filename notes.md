@@ -1,7 +1,8 @@
 ## math object
-
+```
 Math.floor(Math.random() * 6); => returns a random # 0-5
 Math.floor(Math.random() * 6) + 1; => returns a random # 1-6
+```
 
 - if/else
 ```
@@ -28,8 +29,10 @@ if(parseInt(guess) === randomNumber){
 }
 ```
 
- write another if/else to print the message to the page if it is correct or not correct
-```if (correctGuess){
+ - write another if/else to print the message to the page if it is correct or not correct
+
+```
+if (correctGuess){
   document.write('<p>You guessed the number!</p>')
 } else {
   document.write('<p>Sorry, the correct number was ' + randomNumber + '.</p>');
