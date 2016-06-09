@@ -37,18 +37,18 @@ if (correctGuess){
 
 * object literals
 
-```
-{
+```{
   firstName: "Lindsay",
   lastName: "Williams"
 }
 ```
 
-** the object has two properties with the values: firstName 'Lindsay' and lastName 'Williams'
+* the object has two properties with the values: firstName 'Lindsay' and lastName 'Williams'
 
 * values denoting missing info are undefined (no value or uninitialized variables - var foo; foo => undefined) and null(no object)
 
 ### array methods
+```
 * var arr = [ 'a', 'b', 'c' ];
 
 * arr.slice(1, 2)  // copy elements
